@@ -20,3 +20,11 @@
 <div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pabl0e.pabl0e&left_color=midnightblue&right_color=royalblue&left_text=Profile%20views"  />
 </div>
+
+<div>
+  <a href="https://www.linkedin.com/in/vince-louie-valle-6a535a211/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vincelouievalle@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
