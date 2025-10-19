@@ -1,7 +1,7 @@
 <h1 >Hi there, I'm Vince! 😎</h1>
 
 <p>
-  🍓 Currently working on a cool <b>parking enforcement system</b> with the <b>Raspberry Pi Zero W</b> for my college thesis. <a href="https://github.com/pabl0e/Integrated-RFID-Reader">Check it out!</a>
+  🍓 Currently working on a cool <b>parking enforcement system</b> with the <b>Raspberry Pi Zero W</b> for my undergraduate thesis. <a href="https://github.com/pabl0e/Integrated-RFID-Reader">Check it out!</a>
   <br />
   <br />
   🤖 I'm a developer focused on <b>mobile applications</b>,  <b>smart device integration</b>, and <b>embedded systems</b>.
