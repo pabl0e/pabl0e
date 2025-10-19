@@ -4,7 +4,7 @@
   🍓 Currently working on <b><a href="https://github.com/pabl0e/Integrated-RFID-Reader">Integrated-RFID-Reader</a></b>  for the <b>Raspberry Pi Zero W</b> for my college thesis. Check it out!
   <br />
   <br />
-  🤖 I'm a developer focused on <b>hardware</b>, <b>smart device integration</b>, <b>embedded systems</b>, and <b>mobile applications</b>.
+  🤖 I'm a developer focused on <b>mobile applications</b>, <b>hardware</b>, <b>smart device integration</b>, and <b>embedded systems</b>.
   <br />
   <br />
   📱 My work ranges from <b>microcontroller programming</b> to building <b>cross-platform apps with Flutter</b>.
