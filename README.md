@@ -10,8 +10,6 @@
   📱 My work ranges from <b>microcontroller programming</b> to building <b>cross-platform apps with Flutter</b>.
 </p>
 
-<h3>My GitHub Stats</h3>
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=pabl0e&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="180" alt="pabl0e's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabl0e&locale=en&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="180" alt="pabl0e's top languages" />
