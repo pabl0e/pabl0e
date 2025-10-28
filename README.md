@@ -4,7 +4,7 @@
   🍓 I'm currently working on a clever <b>parking enforcement system</b> with <b>Raspberry Pi Zeros</b> for my undergraduate thesis. <a href="https://github.com/pabl0e/Integrated-RFID-Reader">Check it out!</a>
   <br />
   <br />
-  🤖 I'm a developer focused on <b>mobile applications</b>,  <b>smart device integration</b>, and <b>embedded systems</b>.
+  🤖 I'm a developer mainly focused on <b>mobile applications</b>,  <b>smart device integration</b>, and <b>embedded systems</b>.
   <br />
   <br />
   📱 My work ranges from <b>microcontroller programming</b> to building <b>cross-platform apps with Flutter</b>.
